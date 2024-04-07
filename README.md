@@ -4,6 +4,6 @@ Welcome to my Python Projects Repository! This repository is a carefully curated
 #### Global Happiness Level before & after Covid Outbreak
 🔘 Description: Utilizing data from the World Happiness Report spanning from 2015 to 2022, we aim to uncover the impacts of the pandemic on global well-being.   
 🔘 Techniques: Pandas, Numpy, Plotly, data visualization  
-🔘 Location:
+🔘 Location:/Happiness-Level-COVID
 
 
