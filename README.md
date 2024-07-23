@@ -20,3 +20,9 @@ Welcome to my Python Projects Repository! This repository is a carefully curated
 🔘 Description: The primary goal of this assignment is to delve into the effects of Ozempic on obese and hypertensive patients aged 40-75. A key focus is on addressing endogeneity to estimate the treatment effect accurately. Through exploratory data analysis, data merging, and the application of advanced statistical techniques, you will uncover causal relationships and provide insights into the dataset.  
 🔘 Techniques: Numpy, Pandas, Statistical Model(lasso)  
 🔘 Location:`Impact of Ozempic on Obese and Hypertensive Patients`  
+
+#### Event Entry Prediction and Analysis
+🔘 Description:predicting event entry approvals using various machine learning techniques. The project involves data exploration, visualization, PCA analysis, decision tree analysis, and K-means clustering on a dataset containing event entry information.  
+🔘 Techniques: Numpy, Pandas, Statistical Model(PCA, Decision tree, K means)  
+🔘 Location:`Event Entry Prediction and Analysis`  
+
