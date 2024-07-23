@@ -1,6 +1,10 @@
 ## Objective
 
-The objective of this assignment is to apply different machine learning techniques and algorithms to analyze a given dataset, build predictive models, and evaluate their performance.
+The primary goal of this assignment is to delve into the effects of Ozempic on obese and
+hypertensive patients aged 40-75. A key focus is on addressing endogeneity to estimate the
+treatment effect accurately. Through exploratory data analysis, data merging, and the application of
+advanced statistical techniques, you will uncover causal relationships and provide insights into the
+dataset.
 
 ## Contents
 
