@@ -1,0 +1,20 @@
+## Objective
+
+The objective of this assignment is to apply different machine learning techniques and algorithms to analyze a given dataset, build predictive models, and evaluate their performance.
+
+## Contents
+
+This repository contains the following files and directories:
+
+- `ML Ozempic.html`: The main file containing all the code, visualizations, and results.
+- `data.zip`: Directory containing the dataset used in the assignment.
+- `.ipynb`: Jupyter notebooks used for data exploration, model building, and evaluation.
+- `README.md`: This file.
+
+## Data Preprocessing & Model Training
+The data preprocessing and model training steps are provided in the .ipynb notebook. This notebook includes steps to load the dataset, handle missing values, and perform feature engineering.
+
+## Model Development: Double-Lasso / Treatment Effect Lasso:
+- Implement the double-lasso technique to estimate the treatment effect of Ozempic,
+considering the endogeneity of treatment assignment.
+- Justify the inclusion of variables in the model.
